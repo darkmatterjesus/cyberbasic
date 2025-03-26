@@ -1,0 +1,11 @@
+{
+  "health": 120,
+  "inventory": [
+    "sword",
+    "shield",
+    "potion",
+    "magic scroll"
+  ],
+  "level": 6,
+  "name": "Hero"
+}

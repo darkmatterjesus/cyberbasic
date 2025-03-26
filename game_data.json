@@ -1,0 +1,22 @@
+{
+  "player": {
+    "health": 100,
+    "inventory": [
+      "sword",
+      "shield",
+      "potion"
+    ],
+    "level": 5,
+    "name": "Adventurer"
+  },
+  "settings": {
+    "difficulty": "normal",
+    "graphics": "high",
+    "sound": true
+  },
+  "statistics": {
+    "enemiesDefeated": 75,
+    "playTime": 3600,
+    "questsCompleted": 8
+  }
+}

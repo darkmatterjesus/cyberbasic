@@ -1,0 +1,10 @@
+{
+  "fullscreen": true,
+  "quality": "high",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "volume": 80,
+  "vsync": true
+}
